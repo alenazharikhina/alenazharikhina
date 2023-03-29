@@ -18,7 +18,7 @@
   <a href="https://t.me/alena_zharikhina">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://mail.google.com/alena0086@gmail.com">
+  <a href="[https://mail.google.com/alena0086@gmail.com](https://alena0086@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
