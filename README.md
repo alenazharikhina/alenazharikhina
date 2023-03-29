@@ -18,9 +18,6 @@
   <a href="https://t.me/alena_zharikhina">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://alena0086@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
 </div>
 <!--
 **alenazharikhina/alenazharikhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
