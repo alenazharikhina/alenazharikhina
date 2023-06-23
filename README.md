@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alena</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### Data Analyst
+### About me:
+Data Analyst
 
 ### :hammer_and_wrench: Languages & Stack:
 <div>
